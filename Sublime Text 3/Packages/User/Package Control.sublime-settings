@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ConvertToUTF8",
+		"Emmet",
+		"jQuery",
+		"Package Control",
+		"SublimeTmpl"
+	]
+}
